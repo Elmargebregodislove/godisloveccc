@@ -1,2 +1,0 @@
-# godisloveccc
-Created with CodeSandbox
